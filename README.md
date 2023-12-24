@@ -1,4 +1,5 @@
 # Localrepo
-This is a my fiest Github repo
+This is a my first Git repo
 <br>
-Author : Suraj
+Author : Suraj Bobade
+
